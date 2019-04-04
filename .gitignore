@@ -1,0 +1,8 @@
+/target/
+/test-output/
+/report/
+/SmokeAutomationdefectScreenShots/
+*.html
+*.jpeg
+*.log
+*.css
